@@ -1,4 +1,4 @@
-## EcoScan - the easiest way to quickly identify and classify waste from your phone
+## EcoScan - the easiest way to quickly identify and classify waste
 
 EcoScan is a project aimed at solving the problem of waste management by accurately classifying organic and non-organic waste through photos. The project will use Convolutional Neural Network (CNN) to identify the specific features of each type of waste. The goal of the project is to provide a solution that is accessible, user-friendly, and efficient, which can be used in various waste management programs.
 <!--
